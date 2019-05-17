@@ -13,14 +13,12 @@ This is a portfolio about Drew Stanger's life his past and present experiences
 * Hobbies/Interest
 
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_{If you run into any issues, have questions, or ideas feel free to contact me anytime.}_
 
-## Technologies Used
+## Languages Used
+##
+*html
+*css
+*bootstrap
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
-
-### License
-
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-
-Copyright (c) 2015 **_{List of contributors or company name}_**
+##Copyright (c) 2019 Drew Stanger
