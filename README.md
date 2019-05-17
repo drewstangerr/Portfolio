@@ -17,8 +17,8 @@ _{If you run into any issues, have questions, or ideas feel free to contact me a
 
 ## Languages Used
 ##
-*html
-*css
-*bootstrap
+* HTML
+* CSS
+* Bootstrap
 
-##Copyright (c) 2019 Drew Stanger
+Copyright (c) 2019 Drew Stanger

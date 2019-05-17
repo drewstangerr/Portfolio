@@ -1,0 +1,23 @@
+  p.intro {
+  width: 400%;
+  font-style: normal;
+  
+    }
+
+  h1 {
+    color:blue;
+    text-align:center;
+    font-family:sans-serif;
+  }
+
+  h2{
+  color:green;
+  text-align:left;
+  font-family:cursive;
+  font-size:60;
+  }
+
+.Education {
+  color:red;
+  font-style: italic;
+  }
