@@ -1,7 +1,7 @@
   p.intro {
   width: 400%;
   font-style: normal;
-  
+
     }
 
   h1 {
@@ -21,3 +21,13 @@
   color:red;
   font-style: italic;
   }
+
+.Job {
+  color:blue;
+  font-style:italic;
+}
+
+.Hobby{
+  color:green;
+  font-style:italic;
+}
