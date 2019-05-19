@@ -1,33 +1,64 @@
-  p.intro {
-  width: 400%;
-  font-style: normal;
+p.intro {
+  width: 600%;
+  font-family:fantasy;
+  font-variant: small-caps;
+  font-size: 200%
+}
 
-    }
+h1 {
+  color:blue;
+  text-align:center;
+  font-family:sans-serif;
+  font-size: 300%
+}
 
-  h1 {
-    color:blue;
-    text-align:center;
-    font-family:sans-serif;
-  }
+h2{
+  color:black;
+  text-align:center;
+  font-family:sans-serif;
+  font-size:300%
+}
 
-  h2{
-  color:green;
-  text-align:left;
-  font-family:cursive;
-  font-size:60;
-  }
+h3{
+  font-family:fantasy;
+  font-variant: small-caps;
+  font-size: 200%
+}
+
+h4{
+  font-family: sans-serif;
+  font-size:200%
+}
+
+.background{
+  background-color: orange;
+}
 
 .Education {
   color:red;
   font-style: italic;
-  }
+}
 
 .Job {
   color:blue;
   font-style:italic;
 }
 
-.Hobby{
+.Hobby {
   color:green;
   font-style:italic;
+}
+
+.Border{
+  width: 500px;
+  border:1px solid black;
+  padding: 20px;
+  background-color:orange;
+  word-wrap:break-word;
+  margin:0 auto 0 auto;
+}
+
+img{
+  display: block;
+  margin:0 auto 0 auto;
 }
